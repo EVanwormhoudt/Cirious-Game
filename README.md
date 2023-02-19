@@ -1,5 +1,8 @@
 # [Pandemic Shopping](https://github.com/pierrearma/cirious_game)
 
+Game created with phaser JS about barrier gestures for COVID 19
+
+
 CIRIOUS GAME CIR2 PROMO 65 GROUPE 10
 
 - PATOIR Pierre
